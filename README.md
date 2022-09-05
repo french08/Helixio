@@ -1,4 +1,4 @@
 # Helixio
-Helixio est un discord selfbot français et qui est là pour avoir un bot transportable !
+Helixio est un bot discord et Twitter
 
-Arrivée prévue le 20 juillet !
+Pour envoyer des messages sur un 
