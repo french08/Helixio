@@ -1,4 +1,10 @@
-# Helixio
-Helixio est un bot discord et Twitter
+# Helixio ✨
+Helixio est un bot Discord et Twitter
 
-Pour envoyer des messages sur un 
+Pour poster un tweet depuis Discord sur Twitter !
+
+# Lien 👍🏼
+
+Twitter https://bit.ly/bottwitterdiscord
+
+Discord https://discord.gg/sunBhfWXuh
