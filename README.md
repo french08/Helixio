@@ -1,10 +1,31 @@
 # Helixio ✨
-Helixio est un bot Discord et Twitter
+Helixio est un bot Discord coins (€)
 
-Pour poster un tweet depuis Discord sur Twitter !
+Pour avoir un bot qui crée une économie sur votre serveur !
 
-# Lien 👍🏼
+```js
+module.exports = {
 
-Twitter https://bit.ly/bottwitterdiscord
+  Prefix: ",", // PREFIX DU BOT.
 
-Discord https://discord.gg/sunBhfWXuh
+  Users: {
+    OWNERS: ["Vous devrez mettre votre id"] // L'ID DES PROPRIÉTAIRES DU BOT.
+  },
+  
+  Permissions: {
+    ADMIN: "ADMINISTRATOR" // Permission pour les commandes admins
+  },
+  
+  Client: {
+    TOKEN: "Le token du bot", // VOTRE TOKEN DE BOT.
+    ID: ["L'id du bot"] // ID DE BOT.
+  },
+
+  couleurs: {
+    rouge: "Red", 
+    bleu: "Blue",
+    vert: "Green",
+    jaune: "Yellow"
+  }
+};
+```
