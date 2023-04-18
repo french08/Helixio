@@ -3,7 +3,8 @@ Helixio est un bot Discord coins (€)
 
 Pour avoir un bot qui crée une économie sur votre serveur !
 
-Dans le `config.js`
+Dans le ficher `config.js`
+
 ```js
 module.exports = {
 
